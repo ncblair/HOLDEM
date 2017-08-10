@@ -1,0 +1,164 @@
+*{margin:0; padding:0; color:#666666; background-color:#F7F7F7; font-size:16px; font-family:sans-serif;}
+
+.top-bar{
+    display:block;
+    margin:auto;
+    resize:none;
+	height:50px;
+	width:100%;
+	line-height:50px;
+	background-color:#D33B36;
+	font-size:16px;
+    position: center;
+	text-align:center;
+	color:#F7F7F7;
+	z-index:10;
+}
+
+.c{
+    margin-left:10px;
+    margin-right:10px;
+}
+
+.num-players-container{
+    padding:50px;
+}
+
+.num-players {
+    display:block;
+    margin:auto;
+    outline:none;
+    border:none;
+    resize:none;
+    height:40px;
+    font-size:15px;
+    text-align: center;
+    background-color:white;
+    width:150px;
+    border-radius:10px;
+}
+
+
+.flop-container{
+    position:relative;
+    width:100%;
+    min-width:550px;
+    height:40px;
+   
+
+/*
+    padding-left:9%;
+    padding-right:5%;
+*/
+/*
+    margin-top:10%;
+    margin-bottom:10%;
+*/
+    
+}
+
+
+.flop1{
+    float:left;
+    outline:none;
+    border:none;
+    resize:none;
+    width:150px;
+    
+    
+/*
+    display:block;
+    margin:auto;
+    outline:none;
+    border:none;
+    resize:none;
+*/
+}
+
+.flop2{
+    display:block;
+    margin:auto;
+    outline:none;
+    border:none;
+    resize:none;
+    width:150px;
+    padding-left:10px;
+    padding-right:10px;
+    
+}
+
+.flop3{
+   float:right;
+    
+    margin-right:10px;
+    outline:none;
+    border:none;
+    resize:none;
+    width:150px;
+}
+
+.card-input{
+    display:block;
+    margin:auto;
+    outline:none;
+    border:none;
+    resize:none;
+    height:40px;
+    font-size:15px;
+    text-align:center;
+    background-color:white;
+    width:150px;
+    border-radius:10px;
+}
+
+
+/*
+
+.select-num-players{
+    padding: 300px;
+    z-index: 11;
+}
+
+.initial-input{
+    position: center;
+    color: #FFFFFF;
+
+    z-index:11;
+}
+
+
+input{
+	outline:none;
+	resize:none;
+	width:120px;
+	font-size:15px;
+	padding-left:10px;
+	margin:2px;
+	border-radius:4px;
+	border:none;
+	height:40px;
+}
+
+
+.first-name, .last-name{
+	width:193px;
+}
+
+.num-players{
+	float:center;
+}
+
+.description{
+	font-size:32px;
+	font-style: italic;
+	font-family: cursive;
+	color:#272822;
+	margin-top:70px;
+	z-index:10;
+}
+*/
+
+
+
+
+
